@@ -1,0 +1,17 @@
+{
+  "name": "multi-variable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prod": "npx cypress run --env configFile=prod",
+    "homolog": "npx cypress run --env configFile=hml"
+
+  },
+  "keywords": [],
+  "author": "Gerson Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
