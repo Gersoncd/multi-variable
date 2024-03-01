@@ -14,7 +14,7 @@ Este repositório contém um arquivo de configuração para o Cypress que permit
 ### Instalação
 
 - Abra o terminal e navegue até o diretório onde deseja clonar o repositório do GitHub. Em seguida, execute o seguinte comando:
- `git clone https://github.com/gersoncdias/automacao_-cypress_api_vtex.git`
+ `git clone https://github.com/gersoncdias/multi-variable`
 - Entre no diretório do projeto recém-clonado usando o comando: 
 `cd nome-repositorio`
 - Execute o seguinte comando para instalar as dependências do projeto, incluindo o Cypress: `npm i`
