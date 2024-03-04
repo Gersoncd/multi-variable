@@ -13,7 +13,7 @@ describe('Acessar a home já logado via API', () => {
   });
 
   it('Deve acessar a home', () => {
-    cy.visit(Cypress.env('url'));
+    cy.visit(Cypress.env('my_account'));
     
   });
 });
